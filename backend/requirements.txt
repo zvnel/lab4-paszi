@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+
+SQLAlchemy
+psycopg[binary]
+
+python-dotenv
+pydantic
+
+alembic
+
+passlib[argon2]
+
+pytest
+httpx
