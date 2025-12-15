@@ -70,3 +70,5 @@ Frontend доступен на порту 5173.
 В корне проекта выполнить команду:
 
 bash docker compose up --build
+
+<img width="1280" height="716" alt="image" src="https://github.com/user-attachments/assets/6a83b31f-6a4c-4d00-8b8d-a2211f950c8f" />
